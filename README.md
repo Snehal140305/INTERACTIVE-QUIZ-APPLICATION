@@ -15,6 +15,7 @@
 #India GK Quiz Application
 
 *Project Overview*
+
 The India GK Quiz Application is an interactive web-based quiz designed to test users' general knowledge about India. It provides a seamless and engaging experience with a well-structured user interface, a countdown timer for each question, and real-time feedback on answers.
 
 *Technologies Used*
