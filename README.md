@@ -50,3 +50,11 @@ The UI was designed with CSS to ensure a visually appealing and responsive exper
 
 This project demonstrates skills in frontend development, UI/UX design, and JavaScript programming. It effectively combines educational value with an engaging user experience, making it a valuable addition to any learning platform.
 
+OUTPUT OF APPLICATION
+
+![Image](https://github.com/user-attachments/assets/7b601362-9708-423f-9d70-e327acc43ea8)
+
+![Image](https://github.com/user-attachments/assets/13e2a5e5-de9e-4b80-abbe-6154b203d9e9)
+
+![Image](https://github.com/user-attachments/assets/478df615-5b9b-4c87-99c6-9d7a1a1db341)
+
