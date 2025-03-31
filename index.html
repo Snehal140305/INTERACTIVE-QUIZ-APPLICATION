@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Welcome Screen -->
+    <div id="welcome-box">
+        <h1>Welcome to the India GK Quiz!</h1>
+        <p>Test your knowledge about India. You have 10 seconds for each question.</p>
+        <p>To Give test click the button below</p>
+        <button id="start-btn">Get Ready for Test</button>
+    </div>
+
+    <!-- Quiz Container (Initially Hidden) -->
+    <div class="quiz-container hidden" id="quiz-container">
+        <h1>Test Your Knowledge!</h1>
+        <p id="timer">Time Left: <span id="time-left">10</span>s</p>
+        <p id="question"></p>
+        <div id="options"></div>
+        <p id="feedback"></p>
+        <button id="next-btn" disabled>Next</button>
+    </div>
+
+    <!-- Result Box (Initially Hidden) -->
+    <div id="result-box" class="hidden">
+        <h2>Your Score: <span id="score"></span>/10</h2>
+        <button onclick="restartQuiz()">Restart</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
